@@ -38,7 +38,7 @@ Commands included:
 | nc         | nslookup   | open-url   | pbcopy     |
 | pbpaste    | ping       | printenv   | pwd        |
 | readlink   | rlogin     | rm         | rmdir      |
-| say        | scp        | sed        | setenv     |
+| say        | scp        | sed        | setenv     | 
 | sftp       | share      | sleep      | ssh        |
 | ssh-keygen | stat       | sum        | tar        |
 | tee        | telnet     | touch      | tr         |
